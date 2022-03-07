@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+> Please do not disclose security issues
+
+responsible disclosure
+
 ### Describe the bug
 
 Explain the behavior you would expect and the actual behavior.
