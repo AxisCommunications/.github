@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Regarding contributions
 
-**This is a template. If used, please replace all occurrences of `[TODO: Repository name]` with the name of the repository in question.**
+**This is a template. If used, please replace all occurrences of `TODO_REPO_NAME` with the name of the repository in question.**
 
 All types of contributions are encouraged and valued. See the [Table of contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. We look forward to your contributions.
 
@@ -95,13 +95,13 @@ Enhancement suggestions are tracked as [GitHub issues][issues].
 Start by [forking the repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo), i.e. copying the repository to your account to grant you write access. Continue with cloning the forked repository to your local machine.
 
 ```sh
-git clone https://github.com/<your username>/[TODO: Repository name].git
+git clone https://github.com/<your username>/TODO_REPO_NAME.git
 ```
 
 Navigate into the cloned directory and create a new branch:
 
 ```sh
-cd [TODO: Repository name]
+cd TODO_REPO_NAME
 git switch -c <branch name>
 ```
 
@@ -126,9 +126,9 @@ Before opening a Pull Request (PR), please consider the following guidelines:
 And finally when you are satisfied with your changes, open a new PR.
 
 <!-- markdownlint-disable MD034 -->
-[issues]: https://github.com/AxisCommunications/[TODO: Repository name]/issues
-[issues_new]: https://github.com/AxisCommunications/[TODO: Repository name]/issues/new
-[issues_bugs]: https://github.com/AxisCommunications/[TODO: Repository name]/issues?q=label%3Abug
-[discussions]: https://github.com/AxisCommunications/[TODO: Repository name]/discussions
-[discussions_new]: https://github.com/AxisCommunications/[TODO: Repository name]/discussions/new
+[issues]: https://github.com/AxisCommunications/TODO_REPO_NAME/issues
+[issues_new]: https://github.com/AxisCommunications/TODO_REPO_NAME/issues/new
+[issues_bugs]: https://github.com/AxisCommunications/TODO_REPO_NAME/issues?q=label%3Abug
+[discussions]: https://github.com/AxisCommunications/TODO_REPO_NAME/discussions
+[discussions_new]: https://github.com/AxisCommunications/TODO_REPO_NAME/discussions/new
 <!-- markdownlint-enable MD034 -->
