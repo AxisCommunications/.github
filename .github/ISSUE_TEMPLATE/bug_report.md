@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+> **Please do not disclose security vulnerabilities as issues. See our [security policy](../../SECURITY.md) for responsible disclosures.**
+
 ### Describe the bug
 
 Explain the behavior you would expect and the actual behavior.
