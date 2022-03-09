@@ -1,0 +1,17 @@
+<!-- markdownlint-disable MD041 -->
+## Describe your changes
+
+Please include a summary of the change, a relevant motivation and context.
+
+## Issue ticket number and link
+
+Fixes #(issue)
+
+## Checklist before requesting a review
+
+- [ ] I have performed a self-review of my own code
+- [ ] I have verified that the code builds perfectly fine on my local system
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have verified that my code follows the style already available in the repository
+- [ ] I have made corresponding changes to the documentation
