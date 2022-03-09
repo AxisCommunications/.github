@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-> Please do not disclose security issues
-
-responsible disclosure
+> **Please do not disclose security vulnerabilities as issues. See our [security policy](../../SECURITY.md) for responsible disclosures.**
 
 ### Describe the bug
 
