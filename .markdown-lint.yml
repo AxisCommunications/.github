@@ -5,3 +5,6 @@ MD007:
 # Line length
 # Reason: Most editors wrap long lines, and long lines doesn't affect rendered Markdown.
 MD013: false
+
+# First line in a file should be a top-level heading
+MD041: false

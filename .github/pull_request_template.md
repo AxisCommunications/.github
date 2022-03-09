@@ -1,13 +1,12 @@
-<!-- markdownlint-disable MD041 -->
-## Describe your changes
+### Describe your changes
 
 Please include a summary of the change, a relevant motivation and context.
 
-## Issue ticket number and link
+### Issue ticket number and link
 
 Fixes #(issue)
 
-## Checklist before requesting a review
+### Checklist before requesting a review
 
 - [ ] I have performed a self-review of my own code
 - [ ] I have verified that the code builds perfectly fine on my local system
