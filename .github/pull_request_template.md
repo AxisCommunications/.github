@@ -4,7 +4,7 @@ Please include a summary of the change, a relevant motivation and context.
 
 ### Issue ticket number and link
 
-Fixes #(issue)
+- Fixes #(issue)
 
 ### Checklist before requesting a review
 
