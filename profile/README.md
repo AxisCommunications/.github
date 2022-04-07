@@ -1,4 +1,4 @@
-![Turn your ideas into reality](turn-your-ideas-into-reality.png)
+![Turn your ideas into reality](https://raw.githubusercontent.com/AxisCommunications/.github/main/profile/turn-your-ideas-into-reality.png)
 
 At Axis, we create network solutions that provide insights for improving security and new ways of doing business. As the industry leader in network video, we offer products and services for video surveillance and analytics, access control, intercom, and audio systems.
 
