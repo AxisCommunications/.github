@@ -6,6 +6,6 @@ Open source enables and improves Axis products through choice of technology and 
 
 To inspire new innovations and areas of use for our products in combination with yours, we are continuously adding new code examples and tutorials that you can dive into to get started.
 
-- [Learn more at Axis developer community](https://www.axis.com/developer-community)
+- [Learn more at Axis For Developers](https://www.axis.com/for-developers)
 - [Get involved in Axis projects](https://opensource.axis.com)
 - [Explore career opportunities](https://www.axis.com/careers/open-positions)
